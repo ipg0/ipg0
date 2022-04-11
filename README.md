@@ -1,4 +1,4 @@
-## Hi there
+# Hi there
 
 ### I am a software engineer studying at Bauman MSTU, Moscow.
 ---
@@ -8,8 +8,11 @@ I also code in Python, TypeScript, Java, HTML/CSS, Pascal, SQL and NASM x86 asse
 
 ## Here are my live stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notblank00&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=notblank00&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![notblank00's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=notblank00&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notblank00&langs_count=10&theme=github_dark&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **notblank00/notblank00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
