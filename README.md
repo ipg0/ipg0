@@ -1,4 +1,15 @@
-### Hi there 👋
+## Hi there
+
+### I am a software engineer studying at Bauman MSTU, Moscow.
+---
+### My primary languages are C/C++, JavaScript and Ruby
+
+I also code in Python, TypeScript, Java, HTML/CSS, Pascal, SQL and NASM x86 assembly.
+
+## Here are my live stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notblank00&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **notblank00/notblank00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
