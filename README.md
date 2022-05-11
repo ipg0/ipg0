@@ -2,9 +2,11 @@
 
 ### I am a software engineer studying at Bauman MSTU, Moscow.
 ---
-### My primary languages are C/C++, JavaScript and Ruby
+### My primary languages are C/C++, JavaScript, Ruby and Java
 
-I also code in Python, TypeScript, Java, HTML/CSS, Pascal, SQL and NASM x86 assembly.
+I also code in Python, TypeScript, HTML/CSS, Pascal, SQL and NASM x86 assembly.
+
+##### By the way, I also have [my own GitLab instance](https://gitlab.baza134.ru/pyro)
 
 ## Here are my live stats:
 
