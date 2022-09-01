@@ -1,6 +1,6 @@
 # Hi there
 
-### I am a software engineer studying at Bauman MSTU, Moscow.
+### I am a software engineer and developer.
 ---
 ### My primary languages are C/C++, JavaScript, Ruby and Java
 
