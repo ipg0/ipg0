@@ -1,14 +1,4 @@
-# Hi there
-
-### I am a software engineer and developer.
----
-### My primary languages are C/C++, JavaScript, Ruby and Java
-
-I also code in Python, TypeScript, HTML/CSS, Pascal, SQL and NASM x86 assembly.
-
-##### By the way, I also have [my own GitLab instance](https://gitlab.baza134.ru/pyro)
-
-## Here are my live stats:
+## Live stats
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=notblank00&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
