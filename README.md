@@ -1,22 +1,70 @@
-## Live stats
+# About me
+I am a full stack web developer/DevOps engineer, 21, from Moscow, Russia. I know a lot of programming languages.
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=notblank00&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+Also, my live stats have fucked off, so here's some useless info instead.
 
-[![notblank00's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=notblank00&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+Currently I work primarily in JavaScript and TypeScript.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notblank00&langs_count=10&theme=github_dark&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+Every programming language is a mistake, except, probably, Haskell. I love Haskell.
 
-<!--
-**notblank00/notblank00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My languages
+## I speak
+- English (proficient)
+- Russian (native)
+- Weird slang
+- Swearing in commit messages, code comments and test data
 
-Here are some ideas to get you started:
+## I have coding experience in
+- JavaScript
+- TypeScript
+- Haskell
+- Ruby
+- Julia
+- Python
+- Go
+- Rust
+- Java
+- Dart
+- C
+- C++
+- Fortran
+- Pascal/Delphi
+- NASM
+- AVRA
+- Brainfuck (?)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Non-programming languages I know
+- HTML + CSS (also Jade/Pug, ERB, JSX, Sass)
+- Markdown
+- LaTeX
+- SQL
+- Cassandra CQL
+- Markup/serialisation languages (JSON, YAML, XML, TOML, etc.)
+- Cisco IOS shell
+- sh, bash, fish
+- OpenSCAD
+
+# My other technical skills
+- Linux server setup & maintenance (+ nginx, Docker, etc.)
+- Full-time Linux desktop usage
+- Networking
+- Web design
+- Git
+- Task trackers
+- Agile, enterprise, "do once, fix forever" and "complete chaos" workflows
+- Obscene amounts of VSCode customisation
+- Googling
+- Juggling chainsaws (both figuratively and literally)
+
+# My soft skills
+- Questionable team leading abilities
+- Making code reviews fun again
+- Communication using words and sentences
+- I once worked 36 hours in a row
+
+# Unrelated skills and hobbies
+- Music (guitar, bass & vocals)
+- CAD, 3D printing, 3D modeling & engineering
+- Electronics
+- Uncontrollable amounts of alcohol once or twice a month
+- Denying semicolons in lists
