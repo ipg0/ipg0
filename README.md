@@ -64,7 +64,9 @@ Every programming language is a mistake, except, probably, Haskell. I love Haske
 
 # Unrelated skills and hobbies
 - Music (guitar, bass & vocals)
+- Sound engineering, music production
 - CAD, 3D printing, 3D modeling & engineering
 - Electronics
+- Photography
 - Uncontrollable amounts of alcohol once or twice a month
 - Denying semicolons in lists
