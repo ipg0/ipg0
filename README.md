@@ -5,7 +5,7 @@ Also, my live stats have fucked off, so here's some useless info instead.
 
 Currently I work primarily in JavaScript and TypeScript.
 
-Every programming language is a mistake, except, probably, Haskell. I love Haskell.
+Every programming language is a mistake.
 
 # My languages
 ## I speak
