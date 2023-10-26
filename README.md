@@ -1,11 +1,16 @@
 # About me
 I am a full stack web developer/DevOps engineer, 21, from Moscow, Russia. I know a lot of programming languages.
 
-Also, my live stats have fucked off, so here's some useless info instead.
-
 Currently I work primarily in JavaScript and TypeScript.
 
 Every programming language is a mistake.
+
+## My live stats
+
+<img width=500 src="https://github-readme-stats-ashy-zeta-47.vercel.app/api?username=ipg0&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues&show_icons=true&hide_border=true&bg_color=30,4a1979,570d1a&text_color=c990ff&icon_color=c990ff&title_color=ffffff" />
+
+<img width=500 src="https://github-readme-stats-ashy-zeta-47.vercel.app/api/wakatime?username=ipg0&hide_border=true&bg_color=30,4a1979,570d1a&text_color=c990ff&icon_color=c990ff&title_color=ffffff&layout=compact" />
+
 
 # My languages
 ## I speak
